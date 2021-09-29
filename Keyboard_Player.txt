@@ -1,0 +1,17 @@
+Keyboard System
+
+PLayer 1 :
+
+		W
+	      A   D
+		S
+
+	Shoot : Space
+
+Player 2 :
+
+		Up
+	   Left    Right
+	       Down
+
+	Shoot : P

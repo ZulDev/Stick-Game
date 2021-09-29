@@ -1,0 +1,15 @@
+PLAY
+
+Button X UP LEFT : 292
+Button X UP RIGHT: 495
+
+Button Y DOWN : 185
+Button Y UP   : 125
+
+EXIT
+
+Button X UP LRFT  : 285
+Button X UP RIGHT : 505
+
+Button Y UP : 205
+Button X RIGHT : 260

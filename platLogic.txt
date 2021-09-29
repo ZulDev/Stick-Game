@@ -1,0 +1,14 @@
+x = 215 | 281
+y = 322 | 330
+
+Cordinat PLatform ke 1;
+
+Cordinat si PLayer
+
+PX = 234
+py = 290
+
+PY = 281 di platform
+PY = 297 di bawah platfrom
+
+
